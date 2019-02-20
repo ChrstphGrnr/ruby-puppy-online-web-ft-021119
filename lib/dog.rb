@@ -28,5 +28,5 @@ attr_accessor :name
   #def self.all
     #puts @@all_names
   #end
-binding.pry
+
 end
