@@ -30,3 +30,4 @@ attr_accessor :name
   #end
 
 end
+binding.pry 
