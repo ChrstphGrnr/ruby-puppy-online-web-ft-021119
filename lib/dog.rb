@@ -25,4 +25,8 @@ attr_accessor :name
     end
   end
 
+  #def self.all
+    #puts @@all_names
+  #end
+binding.pry
 end
